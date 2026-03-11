@@ -9,9 +9,9 @@ public class Main {
     public static void main(String[] args) {
 
         Student s1 = new Student();
-        s1.setsName("Billoo");
-        s1.setRollNo(70);
-        s1.setsAge(22);
+        s1.setsName("Pushp");
+        s1.setRollNo(76);
+        s1.setsAge(25);
 
         Configuration cfg = new Configuration();
         cfg.configure();
